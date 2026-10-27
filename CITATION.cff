@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Labour Market Dynamics and Skill Development — Bibliometric Dataset (WoS 623)"
+abstract: >
+  A dataset of 623 Web of Science–indexed articles published between 1975
+  and 2024 at the intersection of labour-market dynamics and skill
+  development. Includes raw bibliographic records, descriptive frequency
+  tables (authors, affiliations, countries, research areas, annual output),
+  keyword co-occurrence network data for 71 keywords grouped in five
+  clusters, and country co-authorship network data for 38 countries grouped
+  in four clusters. The dataset supports the bibliometric and scientometric
+  analysis reported in Bourgou et al. (2026), published in Prosperitas.
+authors:
+  - family-names: Bourgou
+    given-names: Khalil
+    email: bourgoukalil@gmail.com
+    affiliation: >
+      John von Neumann University, Doctoral School of Management and
+      Business Administration, Kecskemét, Hungary
+  - family-names: Abdi Khalife
+    given-names: Mehrzad
+    affiliation: >
+      John von Neumann University, Kecskemét, Hungary
+  - family-names: Dunay
+    given-names: Anna
+    affiliation: >
+      Hungarian University of Agriculture and Life Sciences, Gödöllő, Hungary
+  - family-names: Illés
+    given-names: Csaba Bálint
+    affiliation: >
+      Hungarian University of Agriculture and Life Sciences, Gödöllő, Hungary
+version: "1.0.0"
+date-released: "2026-10-27"
+license: CC-BY-4.0
+repository-code: "https://github.com/Bourgou/labour-market-bibliometric-wos623"
+keywords:
+  - bibliometrics
+  - scientometrics
+  - labour market
+  - skill development
+  - employability
+  - human capital
+  - signalling theory
+  - Industry 4.0
+  - VOSviewer
+  - Web of Science
+preferred-citation:
+  type: article
+  title: "Labour market dynamics and skill development: Bibliometric and scientometric analysis"
+  authors:
+    - family-names: Bourgou
+      given-names: Khalil
+    - family-names: Abdi Khalife
+      given-names: Mehrzad
+    - family-names: Dunay
+      given-names: Anna
+    - family-names: Illés
+      given-names: Csaba Bálint
+  journal: "Prosperitas"
+  year: 2026
+  publisher:
+    name: "Budapest Business School"

@@ -1,0 +1,346 @@
+Affiliation with Department	Record Count	% of 623
+Polytechnic Institute Of Porto Higher Institute Of Accounting And Administration Of Porto	5	0.803
+Ca Foscari University Of Venice Department Of Management	4	0.642
+The University Of North Carolina At Chapel Hill College Of Arts And Sciences	4	0.642
+The University Of North Carolina At Chapel Hill Department Of Sociology	4	0.642
+Mount Royal University Bissett School Of Business	3	0.482
+National Research University Higher School Of Economics Faculty Of Social Sciences	3	0.482
+National Research University Higher School Of Economics Institute Of Education	3	0.482
+Qatar University College Of Business And Economics	3	0.482
+Universiti Tun Hussein Onn Malaysia Faculty Of Civil And Environmental Engineering	3	0.482
+University Of Chicago Division Of The Social Sciences	3	0.482
+Brno University Of Technology Faculty Of Business And Management	2	0.321
+Brunel University London College Of Business Arts And Social Sciences	2	0.321
+Griffith University Griffith Business And Government	2	0.321
+Griffith University Griffith Business School	2	0.321
+Massachusetts Institute Of Technology School Of Engineering	2	0.321
+National University Of Singapore Department Of Chemistry	2	0.321
+National University Singapore Faculty Of Science	2	0.321
+New York University Leonard N Stern School Of Business	2	0.321
+Putra Malaysia University Faculty Of Educational Studies	2	0.321
+The University Of Melbourne Faculty Of Business And Economics	2	0.321
+The University Of Melbourne Faculty Of Medicine Dentistry And Health Sciences	2	0.321
+Universiti Kebangsaan Malaysia Faculty Of Education	2	0.321
+Universiti Tun Hussein Onn Malaysia Faculty Of Technical And Vocational Education	2	0.321
+University Of Belgrade Faculty Of Economics	2	0.321
+University Of Chicago Department Of Economics	2	0.321
+University Of Groningen Faculty Of Economics And Business	2	0.321
+University Of Malaya Faculty Of Education	2	0.321
+University Of Minho School Of Engineering	2	0.321
+University Of North Texas College Of Information	2	0.321
+University Of Porto Faculty Of Engineering	2	0.321
+University Of Salento Department Of Engineering Innovation	2	0.321
+Aalto University School Of Business	1	0.161
+Agh University Of Science And Technology Faculty Of Civil Engineering And Resource Management	1	0.161
+Agh University Of Science And Technology Faculty Of Mechanical Engineering And Robotics	1	0.161
+Amrita Vishwa Vidyapeetham Amrita School Of Engineering	1	0.161
+Anu College Of Science	1	0.161
+Australian Catholic University Discipline Of Social Work And Human Services	1	0.161
+Australian Catholic University Faculty Of Health Sciences	1	0.161
+Australian Catholic University Institute Of Child Protection Studies	1	0.161
+Australian Catholic University School Of Allied Health	1	0.161
+Australian National University College Of Health And Medicine	1	0.161
+Australian National University Research School Of Population Health	1	0.161
+Babeş Bolyai University Department Of Computer Science	1	0.161
+Babeş Bolyai University Faculty Of Mathematics And Computer Science	1	0.161
+Bloorview Research Institute	1	0.161
+Boston College Carroll School Of Management	1	0.161
+Boston University Questrom School Of Business	1	0.161
+Brawijaya University Department Of Information System	1	0.161
+Brawijaya University Faculty Of Computer Sciences	1	0.161
+Brunel University London Business School	1	0.161
+Brunel University London Health Economics Research Group	1	0.161
+Central European University Department Of Public Policy	1	0.161
+Chalmers University Of Technology Department Of Technology Management And Economics	1	0.161
+Clemson University College Of Agriculture Forestry And Life Sciences	1	0.161
+Columbia Medical Center	1	0.161
+Columbia University Department Of Epidemiology	1	0.161
+Columbia University Mailman School Of Public Health	1	0.161
+Curtin University Faculty Of Humanities	1	0.161
+Curtin University School Of Education	1	0.161
+Deakin Business School	1	0.161
+Deakin University Faculty Of Business And Law	1	0.161
+Dhofar University College Of Engineering	1	0.161
+Edith Cowan University School Of Business And Law	1	0.161
+Farmer School Of Business	1	0.161
+Gadjah Mada University Department Of Computer Sciences And Electronics	1	0.161
+Gadjah Mada University Faculty Of Mathematics And Natural Sciences	1	0.161
+Georgetown University Mcdonough School Of Business	1	0.161
+Grigore T Popa University Of Medicine And Pharmacy Iasi Faculty Of Medicine	1	0.161
+Helwan University Faculty Of Applied Arts	1	0.161
+Imam Abdulrahman Bin Faisal University College Of Computer Science And Information Technology	1	0.161
+Indiana University Of Pennsylvania College Of Humanities And Social Sciences	1	0.161
+Indiana University Of Pennsylvania Department Of Economics	1	0.161
+Johns Hopkins Bloomberg School Of Public Health	1	0.161
+Johns Hopkins Medicine	1	0.161
+Johns Hopkins Medicine Department Of Psychiatry And Behavioral Sciences	1	0.161
+Johns Hopkins University Department Of Health Policy And Management	1	0.161
+Johns Hopkins University Institute For Health And Social Policy	1	0.161
+Johns Hopkins University School Of Medicine	1	0.161
+Keele University Faculty Of Humanities And Social Science	1	0.161
+Keele University Keele Business School	1	0.161
+King Abdulaziz University Faculty Of Computing And Information Technology	1	0.161
+King Abdulaziz University Faculty Of Engineering	1	0.161
+Kore University Of Enna Faculty Of Economics And Law	1	0.161
+Kth Royal Institute Of Technology Department Of Computer Science	1	0.161
+Kth Royal Institute Of Technology Department Of Industrial Economics And Management	1	0.161
+Kth Royal Institute Of Technology Division Of Computational Science And Technology	1	0.161
+Kth Royal Institute Of Technology Division Of Theoretical Computer Science	1	0.161
+Kth Royal Institute Of Technology School Of Electrical Engineering And Computer Science	1	0.161
+Kth Royal Institute Of Technology School Of Industrial Engineering And Management	1	0.161
+Ku Leuven Faculty Of Economics And Business	1	0.161
+Ku Leuven Humanities And Social Sciences Group	1	0.161
+Kuwait University College Of Business Administration	1	0.161
+Lingnan University Department Of Economics	1	0.161
+Lingnan University Faculty Of Social Sciences	1	0.161
+Linkoping University Department Of Behavioural Sciences And Learning	1	0.161
+Linkoping University Department Of Management And Engineering	1	0.161
+Linkoping University Faculty Of Ars And Sciences	1	0.161
+Linkoping University Institute Of Technology	1	0.161
+Maastricht University Faculty Of Health Medicine And Life Sciences	1	0.161
+Maastricht University Medical Centre Mumc	1	0.161
+Maastricht University School Of Business And Economics	1	0.161
+Macquarie University Faculty Of Science And Engineering	1	0.161
+Manchester Metropolitan University Department Of Computing And Mathematics	1	0.161
+Manchester Metropolitan University Faculty Of Science And Engineering	1	0.161
+Mara University Of Technology Academy Of Language Studies	1	0.161
+Mara University Of Technology Centre Of Statistical And Decision Science Studies	1	0.161
+Mara University Of Technology Faculty Of Accountancy	1	0.161
+Mara University Of Technology Faculty Of Computer And Mathematical Sciences	1	0.161
+Mara University Of Technology Faculty Of Education	1	0.161
+Mara University Of Technology Faculty Of Mechanical Engineering	1	0.161
+Massachusetts Institute Of Technology Department Of Economics	1	0.161
+Massachusetts Institute Of Technology Media Lab	1	0.161
+Massachusetts Institute Of Technology School Of Architecture And Planning	1	0.161
+Massachusetts Institute Of Technology School Of Humanities Arts And Social Sciences	1	0.161
+Massachusetts Institute Of Technology Sloan School Of Management	1	0.161
+Mcgill University Department Of Political Science	1	0.161
+Mcgill University Faculty Of Arts	1	0.161
+Medical Research Center Oulu	1	0.161
+Medical University Of Warsaw Faculty Of Health Sciences	1	0.161
+Mississippi State University College Of Business	1	0.161
+Mkwawa University College Of Education	1	0.161
+Mkwawa University College Of Education Faculty Of Education	1	0.161
+National Institute Of Technical Teachers Training And Research Chandigarh Department Of Electrical Engineering	1	0.161
+National Research University Higher School Of Economics Centre For Labour Market Studies	1	0.161
+National Research University Higher School Of Economics School Of Sociology	1	0.161
+National Technical University Of Ukraine Igor Sikorsky Kyiv Polytechnic Institute Faculty Of Linguistics	1	0.161
+National University Of Kaohsiung College Of Management	1	0.161
+National University Of Kaohsiung Department Of Applied Economics	1	0.161
+National University Of Singapore Lee Kuan Yew School Of Public Policy	1	0.161
+Nc State University Department Of Business Management	1	0.161
+Nc State University Poole College Of Management	1	0.161
+Northwestern University Center For Healthcare Studies	1	0.161
+Northwestern University Department Of Surgery	1	0.161
+Northwestern University Institute For Public Health And Medicine	1	0.161
+Northwestern University Surgical Outcomes Quality Improvement Center	1	0.161
+Ohio University College Of Business	1	0.161
+Oklahoma State University Department Of Geography	1	0.161
+Oklahoma State University The College Of Arts And Sciences	1	0.161
+Op Jindal Global University Jindal Global Business School	1	0.161
+Osaka University Graduate School Of Economics School Of Economics	1	0.161
+Polytechnic Institute Of Coimbra Higher Institute Of Accountancy And Administration Of Coimbra	1	0.161
+Polytechnic Institute Of Porto Center For Organizational And Social Studies	1	0.161
+Polytechnic Institute Of Porto Centre For Intercultural Studies	1	0.161
+Polytechnic Institute Of Porto E Learning And Pedagogical Innovation Unit	1	0.161
+Polytechnic Institute Of Porto Higher School Of Hospitality And Tourism	1	0.161
+Polytechnic University Of Madrid Superior Technical School Of Mines And Energy	1	0.161
+Purdue University Department Of Technology Leadership And Innovation	1	0.161
+Purdue University Polytechnic Institute	1	0.161
+Rochester Institute Of Technology Saunders College Of Business	1	0.161
+Rutgers New Brunswick Edward J Bloustein School Of Planning And Public Policy	1	0.161
+Rutgers New Brunswick School Of Environmental And Biological Sciences	1	0.161
+Sakarya University Faculty Of Political Sciences	1	0.161
+Science University Of Malaysia Centre For Instructional Technology And Multimedia	1	0.161
+Shahid Beheshti University Faculty Of Management And Accounting	1	0.161
+Simon Fraser University Department Of Sociology And Anthropology	1	0.161
+Simon Fraser University Faculty Of Arts And Social Sciences	1	0.161
+Southern University And A M College College Of Business	1	0.161
+Stanford Medicine	1	0.161
+Stanford University Department Of Surgery	1	0.161
+Stanford University School Of Medicine	1	0.161
+State Key Laboratory Of Software Engineering	1	0.161
+Sultan Idris Education University Faculty Of Technical And Vocational Education	1	0.161
+Tata Institute Of Social Sciences Sir Dorabji Tata Memorial Library	1	0.161
+Taylor S University Faculty Of Business And Law	1	0.161
+Taylor S University Taylor S Business School	1	0.161
+Technological And Higher Education Institute Of Monterrey School Engineering And Sciences	1	0.161
+Thammasat University Faculty Of Commerce And Accountancy	1	0.161
+The Chinese University Of Hong Kong Department Of Economics	1	0.161
+The Chinese University Of Hong Kong Faculty Of Social Sciences	1	0.161
+The Hang Seng University Of Hong Kong Department Of Accountancy	1	0.161
+The Hang Seng University Of Hong Kong School Of Business	1	0.161
+The Hong Kong University Of Science And Technology Division Of Public Policy	1	0.161
+The Hong Kong University Of Science And Technology Division Of Social Science	1	0.161
+The Hong Kong University Of Science And Technology Interdisciplinary Programs Office	1	0.161
+The Hong Kong University Of Science And Technology School Of Humanities And Social Science	1	0.161
+The Hospital For Sick Children Paediatric Emergency Medicine	1	0.161
+The London School Of Economics And Political Science Department Of Management	1	0.161
+The London School Of Economics And Political Science European Institute	1	0.161
+The Ohio State University College Of Arts And Sciences	1	0.161
+The Ohio State University Department Of Sociology	1	0.161
+The Pennsylvania State University College Of Information Sciences And Technology	1	0.161
+The University Of Adelaide Faculty Of Health And Medical Sciences	1	0.161
+The University Of Adelaide School Of Public Health	1	0.161
+The University Of British Columbia Department Of Sociology	1	0.161
+The University Of British Columbia Department Of Wood Science	1	0.161
+The University Of British Columbia Faculty Of Arts	1	0.161
+The University Of British Columbia Faculty Of Forestry	1	0.161
+The University Of British Columbia Faculty Of Medicine	1	0.161
+The University Of Melbourne Centre For Youth Mental Health	1	0.161
+The University Of Melbourne Department Of Economics	1	0.161
+The University Of Melbourne Melbourne Institute	1	0.161
+The University Of Melbourne Nossal Institute For Global Health	1	0.161
+The University Of Melbourne School Of Population And Global Health	1	0.161
+The University Of North Carolina At Chapel Hill Carolina Population Center	1	0.161
+The University Of North Carolina At Chapel Hill Department Of City And Regional Planning	1	0.161
+The University Of Oklahoma College Of Arts And Sciences	1	0.161
+The University Of Oklahoma Department Of Biology	1	0.161
+The University Of Sydney Business School	1	0.161
+The University Of Texas At Tyler Soules College Of Business	1	0.161
+The Wharton School	1	0.161
+Tianjin University School Of Education	1	0.161
+Tilburg University Department Of Sociology	1	0.161
+Tilburg University Tilburg School Of Social And Behavioral Sciences	1	0.161
+Tilburg University Tranzo Scientific Centre For Care And Welfare	1	0.161
+Toronto Metropolitan University Ted Rogers School Of Management	1	0.161
+Trinity College Dublin Department Of Economics	1	0.161
+Trinity College Dublin School Of Social Sciences And Philosophy	1	0.161
+Unc Greensboro College Of Arts And Sciences	1	0.161
+Unc Greensboro Department Of Political Science	1	0.161
+Universiti Brunei Darussalam School Of Business And Economics	1	0.161
+Universiti Kebangsaan Malaysia Faculty Of Information Science And Technology	1	0.161
+Universiti Tun Hussein Onn Malaysia Faculty Of Engineering Technology	1	0.161
+University Carlos Iii Of Madrid Department Of Business Administration	1	0.161
+University Of Amsterdam Amsterdam School Of Communications Research	1	0.161
+University Of Amsterdam Department Of Communication Sciences	1	0.161
+University Of Amsterdam Department Of Economics	1	0.161
+University Of Amsterdam Faculty Of Economics And Business	1	0.161
+University Of Amsterdam Faculty Of Social And Behavioural Sciences	1	0.161
+University Of Calabria Department Of Mathematics And Computer Science	1	0.161
+University Of Calabria Department Of Mechanical Engineering Energy Engineering And Management Engineering	1	0.161
+University Of Calgary Cumming School Of Medicine	1	0.161
+University Of Calgary Faculty Of Social Work	1	0.161
+University Of California Berkeley College Of Letters And Science	1	0.161
+University Of California Berkeley Department Of Mathematics	1	0.161
+University Of California Berkeley Division Of Mathematical And Physical Sciences	1	0.161
+University Of California Davis College Of Agricultural And Environmental Sciences	1	0.161
+University Of California Davis Department Of Animal Science	1	0.161
+University Of California Davis Department Of Environmental Science And Policy	1	0.161
+University Of California San Diego Department Of Computer Science And Engineering	1	0.161
+University Of California San Diego Jacobs School Of Engineering	1	0.161
+University Of California San Francisco Department Of Surgery	1	0.161
+University Of California San Francisco School Of Medicine	1	0.161
+University Of Carthage Faculty Of Economics And Management Of Nabeul	1	0.161
+University Of Central Florida Rosen College Of Hospitality Management	1	0.161
+University Of Chicago Department Of Sociology	1	0.161
+University Of Coimbra Centre For Business And Economics Research	1	0.161
+University Of Coimbra Faculty Of Economics	1	0.161
+University Of Colombo Department Of Economics	1	0.161
+University Of Colombo Faculty Of Arts	1	0.161
+University Of Craiova Faculty Of Economics And Business Administration	1	0.161
+University Of Electronic Science And Technology Of China Center For West African Studies	1	0.161
+University Of Electronic Science And Technology Of China School Of Economics And Management	1	0.161
+University Of Electronic Science And Technology Of China School Of Electronic Science And Engineering	1	0.161
+University Of Electronic Science And Technology Of China School Of Public Affairs And Administration	1	0.161
+University Of Engineering And Technology Faculty Of Economics And Management Sciences	1	0.161
+University Of Essex Institute For Social And Economic Research	1	0.161
+University Of Glasgow College Of Science And Engineering	1	0.161
+University Of Glasgow James Watt School Of Engineering	1	0.161
+University Of Guelph College Of Management And Economics	1	0.161
+University Of Guelph Department Of Population Medicine	1	0.161
+University Of Guelph Ontario Veterinary College	1	0.161
+University Of Hail College Of Engineering	1	0.161
+University Of Hamburg Department Of Economics	1	0.161
+University Of Hamburg Faculty Of Business Economics And Social Sciences	1	0.161
+University Of Helsinki Helsinki Institute Of Life Sciences	1	0.161
+University Of Helsinki Institute For Molecular Medicine Finland	1	0.161
+University Of Houston College Of Liberal Arts And Social Sciences	1	0.161
+University Of Houston Department Of Economics	1	0.161
+University Of Kelaniya Faculty Of Commerce And Management Studies	1	0.161
+University Of Kent Kent Business School	1	0.161
+University Of La Sabana Inalde Business School	1	0.161
+University Of Lisbon Faculty Of Psychology	1	0.161
+University Of Lisbon Research Centre For Psychological Science	1	0.161
+University Of Ljubljana School Of Economics And Business	1	0.161
+University Of Miami College Of Arts And Sciences	1	0.161
+University Of Miami Department Of Sociology And Criminology	1	0.161
+University Of Michigan College Of Literature Science And The Arts	1	0.161
+University Of Michigan Department Of Economics	1	0.161
+University Of Michigan School Of Information	1	0.161
+University Of Minho Centre For Textile Science And Technology	1	0.161
+University Of Minho Communication And Society Research Centre	1	0.161
+University Of Minho Department Of Communication Sciences	1	0.161
+University Of Minho Department Of Textile Engineering	1	0.161
+University Of Minho Institute Of Social Sciences	1	0.161
+University Of Minnesota Twin Cities Department Of Surgery	1	0.161
+University Of Minnesota Twin Cities Division Of Cardiothoracic Surgery	1	0.161
+University Of Minnesota Twin Cities School Of Medicine	1	0.161
+University Of Modena And Reggio Emilia Department Of Biomedical Metabolic And Neural Sciences	1	0.161
+University Of Modena And Reggio Emilia Faculty Of Medicine And Surgery	1	0.161
+University Of Naples Parthenope Department Of Engineering	1	0.161
+University Of Ottawa Telfer School Of Management	1	0.161
+University Of Palermo Department Of Agricultural And Forestry Sciences	1	0.161
+University Of Pennsylvania School Of Social Policy And Practice	1	0.161
+University Of Pisa Department Of Civil And Industrial Engineering	1	0.161
+University Of Pisa Department Of Energy Systems Of Land And Buildings Engineering	1	0.161
+University Of Pisa School Of Engineering	1	0.161
+University Of Pittsburgh Department Of Cardiothoracic Surgery	1	0.161
+University Of Pittsburgh School Of Medicine	1	0.161
+University Of Pittsburgh Schools Of The Health Sciences	1	0.161
+University Of Pretoria Department Of Information Science	1	0.161
+University Of Pretoria Faculty Of Engineering Built Environment And It	1	0.161
+University Of Pretoria School Of Information Technology	1	0.161
+University Of Reggio Calabria Department Of Computer Infrastructure And Sustainable Energy Engineering	1	0.161
+University Of Rome La Sapienza Department Of Psychology	1	0.161
+University Of Rome La Sapienza Faculty Of Medicine And Psychology	1	0.161
+University Of Salerno Department Of Business Sciences Management Innovation Systems	1	0.161
+University Of Salerno Department Of Humanities Philosophy And Education	1	0.161
+University Of South Africa College Of Science Engineering And Technology	1	0.161
+University Of Ss Cyril And Methodius In Trnava Faculty Of Mass Media Communication	1	0.161
+University Of Technology Malaysia Azman Hashim International Business School	1	0.161
+University Of Technology Malaysia Department Of Educational Foundation And Social Sciences	1	0.161
+University Of Technology Malaysia Department Of Technical And Engineering Education	1	0.161
+University Of Technology Malaysia Faculty Of Built Environment And Surveying	1	0.161
+University Of Technology Malaysia Faculty Of Social Sciences And Humanities	1	0.161
+University Of Technology Malaysia School Of Education	1	0.161
+University Of Tehran Faculty Of Social Sciences	1	0.161
+University Of The Peloponnese Department Of Electrical And Computer Engineering	1	0.161
+University Of The Punjab Department Of Economics	1	0.161
+University Of Toronto Dalla Lana School Of Public Health	1	0.161
+University Of Toronto Department Of Mathematics	1	0.161
+University Of Toronto Faculty Of Arts Science	1	0.161
+University Of Tras Os Montes And Alto Douro Centre For Transdisciplinary Development Studies	1	0.161
+University Of Tras Os Montes And Alto Douro Department Of Economics Sociology And Management	1	0.161
+University Of Turin Department Of Culture Politics And Society	1	0.161
+University Of Turin School Of Law Politics And Social Economics	1	0.161
+University Of Verona Department Of Human Sciences	1	0.161
+University Of Washington Department Of Surgery	1	0.161
+University Of Washington Division Of Cardiothoracic Surgery	1	0.161
+University Of Washington School Of Medicine	1	0.161
+University Of Westminster Business School	1	0.161
+University Of Wisconsin Madison Center For Demography And Ecology	1	0.161
+University Of Wisconsin Madison College Of Letters And Science	1	0.161
+University Of Wisconsin Madison Department Of Sociology	1	0.161
+University Of Wisconsin Madison Institute For Research On Poverty	1	0.161
+University Of Wisconsin Milwaukee School Of Information Studies	1	0.161
+University Of Zagreb Faculty Of Civil Engineering	1	0.161
+University Of Zagreb Faculty Of Organisation And Informatics Varaždin	1	0.161
+Uw Medicine	1	0.161
+Vu Amsterdam Department Of Economics	1	0.161
+Vu Amsterdam Faculty Of Sciences	1	0.161
+Vu Amsterdam School Of Business And Economics	1	0.161
+Vu University Amsterdam Institute For Environmental Studies	1	0.161
+Warsaw University Of Life Sciences Management Institute	1	0.161
+Waseda University Faculty Of Sport Sciences	1	0.161
+Washington State University College Of Arts And Sciences	1	0.161
+Washington State University Department Of Sociology	1	0.161
+Western Greece University Of Applied Sciences Tei Of Western Greece	1	0.161
+Western University Department Of Sociology	1	0.161
+Western University Faculty Of Social Science	1	0.161
+Western University Ivey Business School	1	0.161
+Wuhan University Faculty Of Information Sciences	1	0.161
+Wuhan University School Of Computer Science	1	0.161
+Youngstown State University Williamson College Of Business Administration	1	0.161
+Óbuda University Kálmán Kandó Faculty Of Electrical Engineering	1	0.161
+426 record(s) (68.379%) do not contain data in the field being analyzed

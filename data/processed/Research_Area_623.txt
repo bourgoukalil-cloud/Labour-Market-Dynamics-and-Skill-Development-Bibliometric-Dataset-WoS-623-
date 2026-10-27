@@ -1,0 +1,69 @@
+Research Areas	Record Count	% of 625
+Education Educational Research	214	34.240
+Business Economics	175	28.000
+Computer Science	79	12.640
+Engineering	55	8.800
+Social Sciences Other Topics	37	5.920
+Psychology	29	4.640
+Science Technology Other Topics	25	4.000
+Sociology	20	3.200
+Environmental Sciences Ecology	18	2.880
+Development Studies	10	1.600
+Public Administration	10	1.600
+Information Science Library Science	9	1.440
+Operations Research Management Science	9	1.440
+Demography	8	1.280
+Area Studies	7	1.120
+Communication	7	1.120
+Linguistics	7	1.120
+Telecommunications	7	1.120
+Arts Humanities Other Topics	6	0.960
+Government Law	6	0.960
+Public Environmental Occupational Health	6	0.960
+Energy Fuels	5	0.800
+Health Care Sciences Services	5	0.800
+Mathematics	5	0.800
+Geography	4	0.640
+Materials Science	4	0.640
+Medical Informatics	4	0.640
+Urban Studies	4	0.640
+Chemistry	3	0.480
+Family Studies	3	0.480
+Agriculture	2	0.320
+Automation Control Systems	2	0.320
+Biodiversity Conservation	2	0.320
+Forestry	2	0.320
+History	2	0.320
+Instruments Instrumentation	2	0.320
+Pharmacology Pharmacy	2	0.320
+Rehabilitation	2	0.320
+Social Issues	2	0.320
+Social Work	2	0.320
+Surgery	2	0.320
+Archaeology	1	0.160
+Asian Studies	1	0.160
+Astronomy Astrophysics	1	0.160
+Behavioral Sciences	1	0.160
+Cardiovascular System Cardiology	1	0.160
+Cell Biology	1	0.160
+Cultural Studies	1	0.160
+Ethnic Studies	1	0.160
+Film Radio Television	1	0.160
+Gastroenterology Hepatology	1	0.160
+Geology	1	0.160
+History Philosophy Of Science	1	0.160
+International Relations	1	0.160
+Literature	1	0.160
+Microbiology	1	0.160
+Neurosciences Neurology	1	0.160
+Optics	1	0.160
+Physics	1	0.160
+Psychiatry	1	0.160
+Religion	1	0.160
+Respiratory System	1	0.160
+Robotics	1	0.160
+Substance Abuse	1	0.160
+Transportation	1	0.160
+Veterinary Sciences	1	0.160
+Women S Studies	1	0.160
+2 record(s) (0.320%) do not contain data in the field being analyzed
