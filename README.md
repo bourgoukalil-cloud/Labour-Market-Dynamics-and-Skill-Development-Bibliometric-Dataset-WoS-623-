@@ -115,7 +115,7 @@ If you use this dataset, please cite both the article and the dataset:
 > Bourgou, K., Abdi Khalife, M., Dunay, A., & Illés, C. B. (2026). Labour market dynamics and skill development: Bibliometric and scientometric analysis. *Prosperitas*.
 
 **Dataset**
-> Bourgou, K. (2026). *Labour market dynamics and skill development — Bibliometric dataset (WoS 623)* [Data set]. GitHub. https://github.com/Bourgou/labour-market-bibliometric-wos623
+> Bourgou, K. (2026). *Labour market dynamics and skill development — Bibliometric dataset (WoS 623)* [Data set]. GitHub. [https://github.com/Bourgou/labour-market-bibliometric-wos623](https://github.com/bourgoukalil-cloud/Labour-Market-Dynamics-and-Skill-Development-Bibliometric-Dataset-WoS-623-)
 
 A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff).
 
